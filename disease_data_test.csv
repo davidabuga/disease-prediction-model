@@ -1,0 +1,23 @@
+# Dataset reformatted into a structured table-like format
+disease_data = [
+    {"Disease": "Malaria", "Stage": "Mild", "Symptoms": ["Headache", "Nausea", "Fatigue", "Mild fever"]},
+    {"Disease": "Malaria", "Stage": "Severe", "Symptoms": ["High fever", "Chills", "Sweating", "Seizures"]},
+    {"Disease": "Dengue Fever", "Stage": "Mild", "Symptoms": ["Joint pain", "Rash"]},
+    {"Disease": "Dengue Fever", "Stage": "Severe", "Symptoms": ["Severe abdominal pain", "Bleeding gums", "Persistent vomiting", "Shock"]},
+    {"Disease": "Tuberculosis", "Stage": "Latent", "Symptoms": ["No symptoms or mild cough"]},
+    {"Disease": "Tuberculosis", "Stage": "Active", "Symptoms": ["Chronic cough", "Chest pain", "Weight loss", "Night sweats"]},
+    {"Disease": "Typhoid", "Stage": "Early", "Symptoms": ["Weakness", "Stomach pain"]},
+    {"Disease": "Typhoid", "Stage": "Severe", "Symptoms": ["Diarrhea", "Confusion", "Rashes"]},
+    {"Disease": "Pneumonia", "Stage": "Mild", "Symptoms": ["Cough", "Mild fever", "Shortness of breath"]},
+    {"Disease": "Pneumonia", "Stage": "Severe", "Symptoms": ["Chest pain", "High fever", "Bluish lips", "Confusion"]},
+    {"Disease": "Measles", "Stage": "Early", "Symptoms": ["Runny nose", "Red eyes", "Sore throat"]},
+    {"Disease": "Measles", "Stage": "Severe", "Symptoms": ["Skin rashes", "Persistent fever", "Ear infections", "Pneumonia"]},
+    {"Disease": "Meningitis", "Stage": "Bacterial", "Symptoms": ["Severe headache", "Stiff neck", "Sensitivity to light"]},
+    {"Disease": "Meningitis", "Stage": "Viral", "Symptoms": ["Mild fever", "Fatigue", "Neck pain", "Headache"]},
+    {"Disease": "Influenza", "Stage": "Common", "Symptoms": ["Cough", "Sore throat", "Muscle aches"]},
+    {"Disease": "Influenza", "Stage": "Severe", "Symptoms": ["Persistent chest pain", "Severe fatigue", "Confusion"]},
+    {"Disease": "Chickenpox", "Stage": "Early", "Symptoms": ["Itchy skin", "Fatigue", "Loss of appetite"]},
+    {"Disease": "Chickenpox", "Stage": "Severe", "Symptoms": ["Widespread rashes", "Blisters", "Infections"]},
+    {"Disease": "Hepatitis B", "Stage": "Acute", "Symptoms": ["Jaundice", "Dark urine", "Fatigue"]},
+    {"Disease": "Hepatitis B", "Stage": "Chronic", "Symptoms": ["Abdominal pain", "Loss of appetite", "Liver damage"]},
+]
